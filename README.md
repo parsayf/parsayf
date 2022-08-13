@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Parsa, 11 years old student! 🙂 I'm from Iran and learning GO.
+I'm Parsa, 11 years old student! 🙂 I'm from Iran and learning python.
 
 <!--
 **parsayf/parsayf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
